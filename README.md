@@ -112,7 +112,7 @@ run_LATERSAB_Method1_pkillnearby.m
 
 _________________________________________________________________________________________________
 
-Additional files:
+Additional required files, accessed from https://drive.google.com/drive/folders/1tWt4PNoUbnQK1lSNocp_Z_LVyxck3SUO?usp=sharing:
 
 perm_orig1.mat = permeability field
 
