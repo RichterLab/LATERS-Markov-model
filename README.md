@@ -9,7 +9,6 @@ ________________________________________________________________________________
 master1.m
 
 -Specifies model file name.
-
 -Runs rxnrw_fluxweight.m.
 
 rxnrw_fluxweight.m
