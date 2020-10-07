@@ -7,16 +7,23 @@ ________________________________________________________________________________
 1. Fully Resolved model - Run master1.m to run the fully resolved model.
 
 master1.m
+
 -Specifies model file name.
+
 -Runs rxnrw_fluxweight.m.
 
 rxnrw_fluxweight.m
+
 -Runs the fully resolved model. 
+
 -Requires the flow field file, vel_field1.mat.
+
 -Runs rk1.m, reflect.m, and rxn_cycle.m.
 
 rk1.m
+
 -Moves particles by random walk.
+
 -Runs u_vel.m and v_vel.m to interpolate particle velocities from flow field.
 
 u_vel.m
